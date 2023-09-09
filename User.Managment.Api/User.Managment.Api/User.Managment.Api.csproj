@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Authentication\LogIn\" />
+    <ProjectReference Include="..\User.Management.Service\User.Management.Service.csproj" />
   </ItemGroup>
 
 </Project>
